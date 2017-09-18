@@ -1,0 +1,17 @@
+body {
+    background-color:#99ffcc;
+    color: #00264d;
+    padding-left: black;
+}
+main { 
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 500px;
+  margin-left: 500px;
+}
+main {
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 80px;
+}
